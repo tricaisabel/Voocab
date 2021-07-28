@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voocab", "Voocab\Voocab.csproj", "{F72EBC61-400E-40E6-A84E-AF5E6DDED2A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F72EBC61-400E-40E6-A84E-AF5E6DDED2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72EBC61-400E-40E6-A84E-AF5E6DDED2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72EBC61-400E-40E6-A84E-AF5E6DDED2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72EBC61-400E-40E6-A84E-AF5E6DDED2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2E41F62-6127-44E1-A84C-7FDBC3D8F25F}
+	EndGlobalSection
+EndGlobal
