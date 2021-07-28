@@ -7,6 +7,7 @@ All of the values that are intoduced by the user are validated using an Error Pr
 
 ### The Welcome Page ###
 <img width="321" alt="1" src="https://user-images.githubusercontent.com/72613613/127297076-638ccf38-9b2a-40de-9a7d-d157cdac1b24.PNG">
+
 * user name input
 * if the usernamed has been intoduced before the welcoming message is "Welcome Back"
 * if the username is new the message is just "Welcome"
