@@ -52,10 +52,10 @@ All of the values that are intoduced by the user are validated using an Error Pr
 3. Enjoy! 
 
 ## Features that could be added in the future ##
-[ ] Add accounts with passwords
-[ ] Bugg: when an user likes a word, selects another word and then comes back to the first word, the like option is still active. Basically one user can like a word 2 times.
-[ ] Add an upload option for adding multiple words at the time
-[ ] Create an English version for the interface, currently in Romanian
+- [ ] Add accounts with passwords
+- [ ] Bugg: when an user likes a word, selects another word and then comes back to the first word, the like option is still active. Basically one user can like a word 2 times.
+- [ ] Add an upload option for adding multiple words at the time
+- [ ] Create an English version for the interface, currently in Romanian
 
 
 
