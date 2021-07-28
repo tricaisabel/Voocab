@@ -48,7 +48,7 @@ All of the values that are intoduced by the user are validated using an Error Pr
 3. Either open:
     * `Voocab->Voocab.sln in Visual Studio and Run`
     
-    *` Voocab->obj->Debug->Voocab.exe`
+    * ` Voocab->obj->Debug->Voocab.exe`
 3. Enjoy! 
 
 
