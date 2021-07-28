@@ -4,11 +4,11 @@ Words can receive likes and new words and meanings can be added by the user.
 
 # Pages and Features
 The Welcome Page
-    -user name input
+-user name input
     
 The Main Page (Form 1)
-    -a bar where you can search words
-    -number of searches for each word is auto-incremented after one search
+-a bar where you can search words
+-number of searches for each word is auto-incremented after one search
     -after every press of any key suggested results are shown
     -the words and likes are displayed directly from a local SQLite database using a DataGridView
     -you can add new words using a secondary form (Form 2)
