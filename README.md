@@ -2,16 +2,16 @@
 This is an application with the main purpose of managing words (basically an online dictionary) where the definitions of the words are added by the users.
 Words can receive likes and new words and meanings can be added by the user.
 
-# Pages and Features
-The Welcome Page
--user name input
+# Pages and Features #
+## The Welcome Page ##
+* user name input
     
-The Main Page (Form 1)
--a bar where you can search words
--number of searches for each word is auto-incremented after one search
-    -after every press of any key suggested results are shown
-    -the words and likes are displayed directly from a local SQLite database using a DataGridView
-    -you can add new words using a secondary form (Form 2)
+## The Main Page (Form 1) ##
+* a bar where you can search words
+* number of searches for each word is auto-incremented after one search
+* after every press of any key suggested results are shown
+* the words and likes are displayed directly from a local SQLite database using a DataGridView
+* you can add new words using a secondary form (Form 2)
     -changes made to the words are automatically updated in the database
     -you can like one of the definitions of one word
     -multiple definitions of one word are ordered by the number of likes
