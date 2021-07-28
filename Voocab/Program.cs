@@ -43,7 +43,7 @@ namespace Voocab
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1("isabel"));
+            Application.Run(new FormIntroducere());
         }
     }
 }
